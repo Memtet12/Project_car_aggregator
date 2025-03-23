@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Promt.iml" filepath="$PROJECT_DIR$/Promt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Vadim_Clusterization/Vadim_Clusterization.iml" filepath="$PROJECT_DIR$/Vadim_Clusterization/Vadim_Clusterization.iml" />
     </modules>
   </component>
 </project>
